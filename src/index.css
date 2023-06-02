@@ -1,0 +1,88 @@
+
+
+
+.color-body {
+  background-color: #F8F8F8 !important;
+  height: 100vh !important;
+}
+.font {
+  font-family: "Almarai", sans-serif !important;
+}
+.title {
+  color: #224F61 !important;
+  font-family: Almarai !important;
+  font-size: 30px !important;
+  font-weight: bold !important;
+  letter-spacing: 0 !important;
+  line-height: 64px !important;
+}
+.underline {
+  height: 1px !important;
+  width: 200px !important;
+  border-radius: 10px !important;
+  border: 2px solid #B45B35 !important;
+}
+.btn:hover {
+  color: black !important;
+  font-family: Almarai !important;
+  font-size: 18px !important;
+  letter-spacing: 0 !important;
+  line-height: 24px !important;
+}
+.btn:hover {
+  color: black !important;
+  font-family: Almarai !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+  letter-spacing: 0 !important;
+  line-height: 24px !important;
+  border-radius: 11px !important;
+  border: none !important;
+  background-color: #B45B35 !important;
+}
+.img-item {
+  height: 180px !important;
+  width: 252px !important;
+  border-radius: 5px !important;
+}
+.item-description {
+  color: #8C8C8C !important;
+  font-family: Almarai !important;
+  font-size: 16px !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}
+.item-title {
+  color: #555555 !important;
+  font-family: Almarai !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}
+.card-color {
+  background-color: #F8F8F8 !important;
+}
+.item-price {
+  color: #B45B35 !important;
+  font-family: Almarai !important;
+  font-size: 16px !important;
+  font-weight: bold !important;
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}
+.btn-search {
+  color: #B45B35 !important;
+  border-radius: 3px solid #B45B35 !important;
+  border-radius: 8px !important;
+  background-color: white !important;
+}
+.btn-search:hover {
+  color: white !important;
+  border-radius: 3px solid white !important;
+  background-color: #B45B35 !important;
+  border-radius: 8px !important;
+}
+.brand-color {
+  color: #B45B35 !important;
+}
